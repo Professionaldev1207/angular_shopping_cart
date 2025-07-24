@@ -1,4 +1,3 @@
-
 # Angular-10 - ShoppingCart + MDBootstrap + Firebase (Realtime Database) + i18n
 
 
